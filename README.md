@@ -1,4 +1,4 @@
-# Deep_Learning_from_scratch
+# Deep Learning from scratch
 Building deep learning library only with Numpy and Matplotlib (for visualization).
 
 ## Book 1 (Deep Learning from Scratch 1)
